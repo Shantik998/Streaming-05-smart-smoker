@@ -12,11 +12,3 @@ In essence, this project acts as a conduit for relaying sensor data collected fr
 2.Python 3.7+ (3.11+ preferred)
 3.VS Code Editor
 4.VS Code Extension: Python (by Microsoft)
-The following modules are required:
-
-Module	Version
-csv	1.0
-webbrowser	3.11.4
-sys	3.11.4
-time	3.11.4
-pika	1.3.2
