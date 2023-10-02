@@ -6,7 +6,7 @@ This project serves as a data generator designed to facilitate the streaming of 
 
 In essence, this project acts as a conduit for relaying sensor data collected from a smart smoker system. This data is originally recorded in a CSV file and is composed of temperature data pertaining to the smoker itself and two different food items, each having its unique identity as Food A and Food B. These temperature readings are systematically acquired every half-minute and are then processed by the data producer, which dispatches them to RabbitMQ queues for further utilization.
 
-## Prerequisites
+# Prerequisites
 
 |1.Git|
 |2.Python 3.7+ (3.11+ preferred)|
