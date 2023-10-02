@@ -148,7 +148,7 @@ def main(hn: str = "localhost"):
             # configure the channel to listen on a specific queue,
             # use the appropriate callback function,
             # and do not auto-acknowledge the message (let the callback handle it)
-            channel.basic_consume(queue=queue_name, on_message_callback=callback_function, auto_ack=False)
+            channel.basic_consume(queue=queue_name, on_message_callback=callback_function, auto_ack=True)
 
         # log a message for the user
         logging.info(" [*] Ready for work. To exit press CTRL+C")
