@@ -14,6 +14,14 @@ In essence, this project acts as a conduit for relaying sensor data collected fr
 |3.VS Code Editor|
 |4.VS Code Extension: Python (by Microsoft)|
 
+# Module imported
+- pika
+-  sys
+- webbrowser
+- csv
+- time
+- logging
+  
 # RabbitMQ Console and Terminal Screenshots
 <img width="1671" alt="smoker_producer" src="https://github.com/Shantik998/Streaming-05-smart-smoker/assets/84759571/318c8263-35ba-47be-bd4c-f2663978f435">
 <img width="1524" alt="smoker_consumer" src="https://github.com/Shantik998/Streaming-05-smart-smoker/assets/84759571/7342c941-7728-465e-8c32-aa8f31a5935c">
