@@ -13,3 +13,8 @@ In essence, this project acts as a conduit for relaying sensor data collected fr
 |2.Python 3.7+ (3.11+ preferred)|
 |3.VS Code Editor|
 |4.VS Code Extension: Python (by Microsoft)|
+
+# RabbitMQ Console and Terminal Screenshots
+<img width="1671" alt="smoker_producer" src="https://github.com/Shantik998/Streaming-05-smart-smoker/assets/84759571/318c8263-35ba-47be-bd4c-f2663978f435">
+<img width="1524" alt="smoker_consumer" src="https://github.com/Shantik998/Streaming-05-smart-smoker/assets/84759571/7342c941-7728-465e-8c32-aa8f31a5935c">
+<img width="1645" alt="Screenshot 2023-09-22 at 11 52 48 PM" src="https://github.com/Shantik998/Streaming-05-smart-smoker/assets/84759571/e2108602-17c3-4d8b-b41c-ee08e8b67edd">
